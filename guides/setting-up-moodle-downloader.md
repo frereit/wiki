@@ -1,8 +1,8 @@
 ---
-title: Moodle Downloader Setup for Dummies
+title: Moodle Downloader Setup
 description: An unofficial guide on how to set up the MoodleDownloader2 with Docker and a cronjob.
 published: true
-date: 2022-12-25T13:06:43.898Z
+date: 2022-12-25T13:08:32.181Z
 tags: guide, archive
 editor: markdown
 dateCreated: 2022-12-24T16:45:56.119Z
