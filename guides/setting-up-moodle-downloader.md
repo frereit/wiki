@@ -2,13 +2,13 @@
 title: Moodle Downloader Setup for Dummies
 description: An unofficial guide on how to set up the MoodleDownloader2 with Docker and a cronjob.
 published: true
-date: 2022-12-25T13:06:31.965Z
+date: 2022-12-25T13:06:43.898Z
 tags: guide, archive
 editor: markdown
 dateCreated: 2022-12-24T16:45:56.119Z
 ---
 
-# Moodle Downloader Setup for Dummies
+# Moodle Downloader Setup
 
 In this guide, I'll walk you through setting up the [C0D3D3V/Moodle-Downloader-2](https://github.com/C0D3D3V/Moodle-Downloader-2) repository on Linux. In this example I'll be using Ubuntu, but you should be able to follow along with different Debian-based Distros. The install instructions might be different for some of the dependencies.
 
